@@ -59,7 +59,7 @@
 
     ### Adorno's Bildungsidee
 
-        For Adorno the Bildungsidee was a the understanding of the development of freedom through self-development consonant with Leibniz’s interpretation of Shaftesbury’s “character formation” as development of “inward form” or “innere Bildung” and Goethe’s authenticity and “self-creation” (Hermeling, 2003).
+        For Adorno the Bildungsidee was the understanding of the development of freedom through self-development consonant with Leibniz’s interpretation of Shaftesbury’s “character formation” as development of “inward form” or “innere Bildung” and Goethe’s authenticity and “self-creation” (Hermeling, 2003).
 
 ## Learning
 
