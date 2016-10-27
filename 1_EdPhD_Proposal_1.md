@@ -1,0 +1,48 @@
+<!-- TODO
+- [ ] Make coherent outline of proposal -->
+- [ ] Theme of historical development parallel to child development
+
+### Social change aligned with self-education of humanity
+
+	The problematic of social change has always been central to social theory. I argue that social change is aligned with the self-education of humanity.
+
+### Autonomy and efficacy
+
+	The drive for autonomy of the developing child promotes the appropriation of the role of educator to the self and peer group,  allowing the reconfiguring of the causal relationship between the social and the efficacy of mental processes.
+
+		See Collaborative and friendship  Circles & (Shenk, 2014) & compare Fred Dallmayr, Ontology, (non-identity or deconstructionist version), reification, Adorno, Gadamer. Note 1, page 11: Dallmayr uses `Ontology' to mean the `world-context of human thought and action.'
+		This meaning is taken primarily from Heidegger's notion of `being in the world'. On page 2 it is noted that Gadamer emphasised `ontology' against Habermas' claims for the autonomy of critical reason. Gadamer championed `historicity' while Habermas came to rely on `quasi-objectivist structures and categories (like labor and domination)' p.3. Dallmayr is referring to early Habermas (in his debate with Gadamer.) & cf. (A. Bandura, 2000, 2004; Albert Bandura, 1995, 2006), also (Romme, Zollo, & Berends, 2010) on deliberate types of learning in organizations. Also see (Leontiev, 1932) note p.4 “independence” and “effort”, ‘The Development of Voluntary Attention’ regarding independence from external stimuli.
+
+		Cf. Franks, David D, and Gecas, Viktor, 1992, "Autonomy and Conformity in Cooley's Self-Theory: The Looking-Glass Self and Beyond." Symbolic Interaction 15:49-68. See also ‘Causal Explanation of Social Action’ (Ekström, 1992).
+
+### Reconfiguring causal relationship between social and mental
+
+	The reconfiguring of the causal relationship between the social and the efficacy of mental processes
+
+### Interaction of the mental and social
+
+	Ekström explains that the generative conception of causality in social science focuses on discovering causal properties underlying "the complex interaction of internally related mental dispositions, meanings, intentions, social contexts and structures" and the social actions which result from this interaction. (1992, Causal Explanation of Social Action, p.1)
+
+		This relates to "The causal efficacy of mental states" (Menzies, 2003)
+
+### Autonomy, solidarity, collaboration, inquiry, efficacy
+
+### Methodology of causally explanatory social theory
+
+	Ekström poses the question as to what can we identify as the "scientific-theoretical and methodological foundations" of social theory directed toward causal explanations. (1992, Causal Explanation of Social Action, p.1)
+
+### Herder's concept of Bildung
+
+### Hegel's concept of Bildung
+
+### Vygotskyan conceptions of learning
+
+#### Stetsenko’s theory of collaborative transformative practice
+
+   (Stetsenko, 2008) is described (Sugarman & Sokol, 2012, pp. 6–8) in Stetsenko’s theory of a dialectic of collaborative transformation of the objective world and of subjectivity and inter-subjectivity. However, the concept of transformation here is analogous to sculpting and does not refer to the transformation of the causal ontology of the world.
+
+### Engeström’s conception of learning
+
+### Bickhard’s interactivist model of learning
+
+### Efficacy and ontology in education and social action

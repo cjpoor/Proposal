@@ -1,0 +1,151 @@
+* Cognitive Development and Praxis: A Socio-ontological Analysis * [/]
+
+** [ ] Abstract
+In this thesis I make two principal complementary arguments: a socio-historical argument
+that social change is aligned with the self-education of humanity, and an ontogenetic-social argument that the drive in the developing child for autonomy and knowledge is congruent and interdependent with this feature of social history.  These arguments will be supported with arguments on the nature of the prevailing social ontology - the existing social order and its causal relations { | Martins, 2006 | | |zu:19876:EPICVR5W}{ | Ikäheimo, & Laitinen, 2011 | | |zu:19876:IPA8G3E3}, that social ontologies are plural and mutable (Gosden, 2008), and the necessity, for human flourishing, of overturning the prevailing social ontology through socio-ontological praxis.  Finally, a model of such praxis for education and civic engagement will be proposed.
+** Thesis
+*** Socio-Ontological Praxis
+The concept introduced here of socio-ontological praxis brings together insights on praxis of Marx and Lukács and concepts of flux gleaned from Saint-Simon { | Kuper, 2014 |p.219 | |zu:19876:HBSKZG4F} and Kuhn { | Kuhn, 1962 | | |zu:19876:V73K5KFK}. The concept of ontological flux is not new to philosophy and can be traced back to Heraclitus { | Husain, 2009 | | |zu:19876:IF3FI8KT}. More recently the notion has been taken up by Bohm and Poli for whom universal and ever- present change or flux is an inescapable feature of the ontology of reality { | Bohm, 1981 | | |zu:19876:BSJ3TVTD}{ | Poli, 2001 | | |zu:19876:DGCVRJME}.
+** Introduction [0/1]
+*** [ ] Parallel Processes
+This thesis argues that progressive social change is aligned with the self-education of humanity
+and that a parallel process in the drive for autonomy of the developing child is congruent with this tendency in social history.
+This topic is based on the hypothesis that, just as the learning child's need for autonomy promotes the appropriation of the role of educator to the self and peer group,
+allowing the re-configuring of the causal relationship between the social and the efficacy of mental processes,
+historical actors endeavour to develop the autonomy of humanity from the tutelage of elites and the dominance of social structures.
+
+*** [ ] Drive for Autonomy
+Just as the child's need for autonomy promotes the appropriation of the role of educator to the self and peer group, allowing the re-configuring of the causal relationship between the social and the self, predicated on the efficacy of mental processes, historical actors strive to develop the autonomy of humanity from the tutelage of elites and the dominance of social structures.
+
+*** [ ] Premises
+
+**** [ ] Premise 1: Struggles over socio-historical issues drive self-education of humanity
+Struggles over socio-historical issues drive the self-education of humanity { | Escobar, 1992 | | |zu:19876:K2WCDQAI}{ | Isaac, & Christiansen, 2002 | | |zu:19876:MCZM5ACV}{ | Plotke, 2006 | | |zu:19876:4SEPQARI} and its reversal (Herman & Chomsky, 2010; Hill, 2006; Kumar, 2005; Marshall, 2012; D. Miller, 2010) (Traverso, 2016)
+through contested feedback between individual, institutional (including social movements) and societal learning (Antonacopoulou, 2006; Engeström, 2001).
+
+*** [ ] The concept of the self-education of humanity
+The concept of the self-education of humanity has been an underlying theme in the work of thinkers at least since Thucydides and Aristotle. The idea permeated the Enlightenment, especially in Kant’s call for “autonomy based upon reason” and was developed by Hegel in his Phenomenology of Spirit (Biesta, 2007; Hegel, 2010).
+
+*** [ ] Progress through Education
+More recently, the notion of progress through education and critical thinking was thematized by Vygotsky and Dewey following William James, and Charles S. Peirce cite:prawat_social-contructivism_1999
+
+*** [ ] Model builds on Bildung and learning theory
+
+based upon Herder’s argument for the socio-historical understanding of worldviews  and conceptions (Berlin, 2013) and Hegel’s appropriation of this (and Shaftesbury’s) notion of bildung (Kodelja, 2010; Srinivasan, 2013), an adaptation could be made of Vygotsky’s, Engeström’s and Bickard’s concepts of learning, to develop a transformational praxis model to elucidate this dynamic of self-education (Feenberg, 2014; Pahl-Wostl et al., 2007; Wenger, 2000) in relation to the developing global environmental crisis.
+
+**** [ ] Also builds upon my earlier research on Critical Realism
+
+also builds upon my earlier research on critical realism and social ontology, causality and agency.
+
+*** [ ] Reforms contrary to goal of autonomous learning
+
+In theory, the goal of autonomous learning has been gaining traction for some years
+
+#+BEGIN_QUOTE
+… the need to promote autonomous learning is paramount – citizens must learn to learn, throughout and across their lives. Australian Council of Deans of Education, 2001 (Ryan in Townsend, 2007)
+#+END_QUOTE
+
+*** [ ] Current "reforms"
+
+However, current education “reforms” promote greater emphasis on “teaching to the test” in schools than ever (Darling-Hammond, 2010; Mutch, 2012; Sahlberg & Hargreaves, 2011).
+
+*** [ ] Paradox of education
+
+The basis of this inconsistency may be the conundrum known as “the paradox of education” addressed by Gilbert Ryle, among others in the twentieth century cite:ellerman_autonomy_2004
+*** [ ] Theories and programs of autonomous learning
+
+Efforts to develop theories of autonomous learning have been made by Rogers, Wedemeyer, Moore, Mezirow and others (Boudon, 1983; Dochy, Gijbels, Segers, & Bossche, 2012; M. G. Moore, 1973; Peters, 2001; Seel, 2014; Tharpe, 2014). Many programs have also been developed for the promotion of autonomous learners and studies have been conducted on the cognitive aspects of autonomous learning (Brookfield, 2007; McCombs, 2001).
+
+*** [ ] Contradictory assumptions regarding the purpose of education
+
+However, another side of the paradox of education is perhaps less tractable than is assumed by these authors. While ingrained power relations are inseparable from educational institutions (Weis, Dimitriadis, & McCarthy, 2013) a more fundamental problem for educators lies in contradictory assumptions regarding the purpose of education. These views range from Bowles and Gintis’ pessimistic analysis of schools’ role in the reproduction of capitalism through Dewey’s education for democracy to Giroux’s more combative belief in the school as a “terrain of contestation” and more traditional conceptions of how education can contribute to a “learning society” (Apps, 1988; Bowles & Gintis, 1976; Dewey, 1916; Giroux, 1984).
+
+*** [ ] Paradigm based on cognitive development and transformation
+
+Undoubtedly, schools are terrains of contestation and do contribute to the reproduction of capitalism but many students also learn to take control of their own learning through both good teaching practice and especially due to their own developmental needs.  If we are to address the problems posed by Dewey, Bowles et al in a way that builds on these successes, it would appear that a paradigm of learning based on the cognitive development of students in transforming themselves and their world is required (Blunden, 2014; Stetsenko, 2008). The current work aims to contribute to the development of such a paradigm.
+
+*** [ ] Causal efficacy of mental states
+
+Education is, to a large extent, predicated upon the casual efficacy of mental states. (Brennan, Goodin, Jackson, & Smith, 2007; Macdonald & Macdonald, 1986; Menzies, 2003). The current state of interest in the efficacy of conscious and unconscious mental activity is a far cry from the situation in the 1960's, when such subjects were widely deemed illegitimate objects of research, and the 1970's, when conscious causation of action was generally believed to be illusory (Baumeister, Masicampo, & Vohs, 2011).
+
+*** [ ] Ideas, through praxis, change social ontology
+
+    I will argue below that, in the twenty first century it may be time to investigate the possibility that, not only do conscious thoughts effect causes in behaviour, but that, as claimed by Marx and Lukács, ideas, mediated by praxis, can ultimately change the causal hierarchy of the existing social ontology cite:feenberg_philosophy_2014[fn:1]
+
+*** [ ] Hypothesis [/]
+
+**** [ ] Students transform themselves
+
+In this study it will be argued that such a change in causal hierarchy also takes place in the transformation of students at school through student-centred learning (M. G. Moore, 1973, p. 348; O’Neill & McMahon, 2005) as they take control of their own learning process. This aspect of cognitive development can be seen as the precursor of socio-ontological praxis, of which more later.[fn:2]
+
+**** [ ] Concept of Selbstbildung
+
+This transformation of the casual order by pupils in school developing their efficacy – from a Vygotskyan teacher-pupil relationship of scaffolding - to peer to peer (Blatchford, Kutnick, Baines, & Galton, 2003) and self-directed learning, depends upon the efficacy of mental processes as understood in the concept of Selbstbildung cite:hu_spiritual_2015
+ (See below re downward causation.)
+
+**** [ ] Sublation of assimilation to cultivate autonomy
+
+Through a process of sublation of the learning of canonical knowledge during teacher scaffolding students are able to cultivate the emergent ability to develop their knowledge autonomously.[fn:3]
+
+**** [ ] Student's praxis incl. cog. dev. & s-o praxis
+
+The student’s own praxis includes her cognitive development and socio-ontological praxis, ultimately in terms of changing the “order of things” (Oksala, 2010; Stetsenko, 2008).
+
+**** [ ] Dialectic bet. self and society to overcome Halbbildung
+The latter refers to what Adorno described as a dialectic between the individual and their wider society, necessary to overcome tendencies of mainstream education “reforms” to encourage adaptation to the existing social system through "Halbbildung" cite:Hermeling_2003,adorno_theorie_2006,
+
+**** [ ] From external stimuli to internal conversation
+
+Progressing from the predominant effects of external stimuli to voluntary attention and the “internal conversation” and the emergence of complexity-generating new relationships between thoughts, the child seeks out her own sources of information and follows her own interests and with peers pursues projects that develop their autonomous learning.
+
+**** [ ] Pursuit of knowledge in interaction with the world
+
+This independent pursuit of knowledge in interaction with the world is described by Dewey as the foundation for democracy in society.
+
+**** [ ] Re-configuring social ontology
+
+It is also complementary to the re-configuring of causal relationships between structure and agency – role and reason – in the social ontology.
+
+**** [ ] Stage of development completed to greater or lesser extent
+
+The stage of development can be completed to a greater or lesser extent depending on conditions determined by the preceding environmental causal factors inherent in class conditions etc.
+
+**** [ ] Phase-change in self-organization
+
+A bifurcation or phase-change also occurs when this process of self-organization starts to supersede in importance the environmental causal factors effecting information organization (Arshinov & Fuchs, 2003; Sugarman & Sokol, 2012, p. 5f. quoting Russell).
+
+
+*** [ ] Outline of Dissertation ***
+The form of the presentation of the research shall be as follows: Chapter 1 will address the theoretical background necessary for the study. Since we are developing a model of the shift from knowledge acquisition to knowledge creation as an overcoming or Überwindung of the existing causal relations of learning, some explication of knowledge theory and causality theory will be undertaken. In order to tie the model to the purposes for which we understand the educational process to be needed, an elucidation of social change theory, and its underlabourer, critical realism, will be presented.  Chapter 2 presents the Historical Background to the study which affords an understanding of the relationship between knowledge development and the socio-historical creation, maintenance and/or overcoming of social forms and practices. The homologous aspects of these historical processes with those proposed in the educational model are delineated in order to illuminate the appropriate elements of sublation (Aufhebung), overcoming (Überwindung) and completion (Vollendung) in the model. Chapter 3 outlines the specific previous research in philosophy and psychology of education and learning which forms the conceptual bases of the thesis. Chapter 4 expounds the methodological underpinnings of the research in the methodology of causally explanatory social theory (Ekström, 1992) and analysis of case studies. Chapter 5 will present the conclusion of the research, that is, the model, tentatively entitled: Re-configuring the Causal Relationship between Social and Mental. Chapter 6 will discuss possibilities for future research.
+
+*** [ ] Analysis
+A critical analysis will be made of the existing literature.
+The review of literature will be wide-ranging and the analysis will be of a theoretical nature. This review and analysis will illustrate the a range of theoretical perspectives, delineate controversies, and highlight limitations in the existing  theories and research.
+
+I will also follow the normal procedure in the case of a purely theoretical research project of proposing a model or ideal type of the educational process envisaged. This will comprise the fifth chapter in the current proposal cite:bruhns_max_2006.
+
+
+* Footnotes
+
+[fn:1] The fundamental question in social science as to whether and to what extent the structure of the political and social system constrains the autonomous action of agents is addressed through building upon the concept of praxis flowing from the work of Marx and Lukács.
+
+[fn:2] Compare "The human sciences study society, and their practical extension is politics through which society is transformed. The humanities focus on culture, and the practical extension of this is the transformation of culture. It is through the transformation of culture that we create ourselves as human. However, the natural sciences and the capacity to transform nature and the human sciences and the political power bequeathed by the social sciences to transform society are each part of culture." "Transformation will not involve controlling people so that they function as instruments of those with power, but inspiring people to create the natural and social forms, the built-up environments and institutions, that will augment their humanity and their capacity to augment the natural and social conditions for life and humanity. It will be a politics of 'eco-poiesis'.60 Creating humans, this will involve developing and living out narratives, but not monologic narratives. It will involve the development of dialogic or polyphonic narratives that allow for diverse voices of participants to question and participate in revising and reformulating the stories they are living out, with stories themselves understood as components of the global semiosphere. They will be made responsible for their culture and its reformulation, a reformulation in which speculative naturalism will create new subjectivities, subjectivities committed to addressing and overcoming the threats civilization and humanity now face from ecological destruction. These are the subjectivities that will create a new era, the era the Chinese environmentalists have called for and dubbed 'ecological civilization'." Gare, Speculative Naturalism (Gare, 2014).
+
+[fn:3] One may use the term Autonomous Knowledge to mean knowledge that is produced and owned by the student – see Fostering Autonomous Learners Through Levels of Differentiation. By: Betts, George, Roeper Review, 02783193, Summer 2004, Vol. 26, Issue 4. This is not to be confused with the “autonomous knowledge” reviled by postmodernists – see Mansfield, 2005, Difference, Deconstruction, Undecidability – A Derridean interpretation.
+
+The knowledge production we refer to here is the interaction between Popper’s Worlds 2 and 3 of knowledge.
+
+#+CAPTION: This is the caption for the next image
+#+NAME: Interaction between Popper's three worlds of knowledge
+￼[[~/Documents/Academic/EdPhD/Proposal/Images/Popper_three_worlds_knowledge.png]]
+
+From http://learningcircuits.blogspot.co.nz/2006/06/three-worlds-of-knowledge.html
+
+
+* Bibliography
+
+bibliographystyle:apa
+bibliography:~/Documents/Academic/EdPhD/Proposal/Resources.bib
+
+
+citation-style : ~/styles-master/apa.csl
